@@ -1,7 +1,7 @@
 {
-  "name": "Test Collective",
-  "sumbol": "tCOLL",
-  "description": "Testing",
-  "image": "https://strata-token-metadata.s3.us-east-2.amazonaws.com/logo.png",
+  "name": "<3 Freedom",
+  "sumbol": "luvFREE",
+  "description": "We Support Freedom!",
+  "image": "https://raw.githubusercontent.com/luvfreedom/strata-marketplace/master/flag.jpg",
   "seller_fee_basis_points": 0
 }
